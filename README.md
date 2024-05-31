@@ -8,6 +8,6 @@ Meu nome é Leandro
 - estou usando esse espaço para organização
 
 ### vocêpode entrar em contato comigo 📧
-leandroquick@gmail.com
+leandroquick.lima@gmail.com
 
 ![](https://media1.tenor.com/m/AKp3ByyVnGcAAAAC/jujutsu-kaisen-itadori-yuji.gif)

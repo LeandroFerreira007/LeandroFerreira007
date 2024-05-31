@@ -1,16 +1,13 @@
-## Hi there 👋
+## Sejam bem vindos ao meu perfil 😄
 
-<!--
-**LeandroFerreira007/LeandroFerreira007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Leandro
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura](https://www.alura.com.br)
+- Tudo graças a minha escola
+- Estou aprendendo muitas coisas novas
+- estou usando esse espaço para organização
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### vocêpode entrar em contato comigo 📧
+leandroquick@gmail.com
+
+![](https://media1.tenor.com/m/AKp3ByyVnGcAAAAC/jujutsu-kaisen-itadori-yuji.gif)
